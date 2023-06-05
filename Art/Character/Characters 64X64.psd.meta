@@ -1,0 +1,1004 @@
+fileFormatVersion: 2
+guid: ea1e2e5dec1b423488c5d2aebf4f6d9c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Characters 64X64_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 890
+        width: 82
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35cf35bcb16b61245b521949b3bb84d6
+      internalID: -1968248370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters 64X64_1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 890
+        width: 82
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a4ab496556acd45a66d8ba848db648
+      internalID: -1619170531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters 64X64_2
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 890
+        width: 83
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf3a7e3d4271ab4fbf527dd5bd4487d
+      internalID: 1318517984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters 64X64_3
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 890
+        width: 84
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41aee9985716de4dab746304e5ea546
+      internalID: 320626523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters 64X64_4
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 890
+        width: 83
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2dd53c376eaae42a3bb5a25b7914df
+      internalID: 2143582471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters 64X64_5
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 890
+        width: 83
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3a2f571e4c1f749941b004445c94da
+      internalID: -1047087696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters 64X64_6
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 891
+        width: 88
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1e5afcb4b00f642807d6f346ed5ad7
+      internalID: -638936330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters 64X64_7
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 891
+        width: 89
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7091e4fca4686434aa905a426d717c95
+      internalID: -2128727203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters 64X64_8
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 733
+        width: 91
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638580c0b0e82b04aad85d6c4cc194c8
+      internalID: 1779806491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters 64X64_9
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 731
+        width: 90
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f72e5d9fa9ad342996d579a3a5da51
+      internalID: 2074634806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters 64X64_10
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 730
+        width: 90
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ffb51605ec1294382a3a07cfc1b90f
+      internalID: -841218398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters 64X64_11
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 731
+        width: 92
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc238a12cf9bf14fb5edd57cf176d6a
+      internalID: 1209056079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters 64X64_12
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 730
+        width: 92
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f552db18ad83a44497579289b7eb45b
+      internalID: 8571025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters 64X64_13
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 731
+        width: 92
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2253b523658904fa401b9f91ea0c87
+      internalID: -563704146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters 64X64_14
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 573
+        width: 92
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3345cd5fab114ee40aae4e668100df80
+      internalID: -1304279731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters 64X64_15
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 573
+        width: 95
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efa786c8bce51d478e066b9c7000a87
+      internalID: 239523928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters 64X64_16
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 571
+        width: 95
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dbe1cdb055bf8d42913999444baed37
+      internalID: -1567993746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters 64X64_17
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 570
+        width: 100
+        height: 131
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca00a3f8a6b26a440bb3e428806ed09f
+      internalID: 599422878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters 64X64_18
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 569
+        width: 100
+        height: 132
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b759d9c79a2d14781c73e47dc335c2
+      internalID: 1137154529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters 64X64_19
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 569
+        width: 100
+        height: 132
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238e5f5451dcce34eb53449489f1ec01
+      internalID: 201980753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters 64X64_20
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 587
+        width: 73
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1cc1f8cf8ae864e95c2a43c1ba08bd
+      internalID: -1987669211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters 64X64_21
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 606
+        width: 57
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0287bb3f0accf104e85ca9774e11d6c0
+      internalID: 1582727634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters 64X64_22
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 422
+        width: 129
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7daee29296a972748a04a68c27af4b39
+      internalID: -75070856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters 64X64_23
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 421
+        width: 131
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6563a529976838a47aa8065ed8f5bfc8
+      internalID: -912523359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters 64X64_24
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 417
+        width: 169
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a77eeee0a287df40b4c11f344bbc2c9
+      internalID: -772631907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters 64X64_25
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 422
+        width: 170
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d624c2cd1525442ad77d01591a21a8
+      internalID: 1314314303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters 64X64_26
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 421
+        width: 168
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35e434bb03b69b42ba50dba4b824d64
+      internalID: -414324981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters 64X64_27
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 422
+        width: 166
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8351f805cbb155b4a83fe6a238f20c5f
+      internalID: 617961093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters 64X64_28
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 320
+        width: 90
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5ca5fa527b5be4a9d1e8d7cd89f8da
+      internalID: 1208237984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters 64X64_29
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 181
+        width: 105
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c1efc50ea747a46b56be972b74b49f
+      internalID: 247677580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters 64X64_30
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 181
+        width: 105
+        height: 186
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def1008ddc8922f44bae6d34685f2d0f
+      internalID: 1348547398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters 64X64_31
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 162
+        width: 89
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b568c10da75864d92582fa87cb70b4
+      internalID: -1744697326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters 64X64_32
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 184
+        width: 92
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1b317d70b9afa498d2d830ec5a1dad
+      internalID: -633179306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters 64X64_33
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 185
+        width: 88
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38cd9841ec9190640bf5f7c2bc47ea2d
+      internalID: -988842006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters 64X64_34
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 181
+        width: 165
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824cad0c44b85c54e98f0fa7dbb49ce3
+      internalID: -1506481177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters 64X64_35
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 17
+        width: 133
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826621a1ddeea114183d0ca524576d9f
+      internalID: -1620248366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters 64X64_36
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 17
+        width: 132
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5198aebcf67140841b1882f8e7cf65d3
+      internalID: 453131413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters 64X64_37
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 13
+        width: 168
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada6951b32b3a7741ae354e9cdb1505d
+      internalID: -285416080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters 64X64_38
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 17
+        width: 170
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0bf8bf2e296574e9f3836c9c2193c1
+      internalID: 640502226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters 64X64_39
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 17
+        width: 165
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85be1e6955f7cd648ba5f8fffeb7a08d
+      internalID: 1326596562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Characters 64X64_4: 2143582471
+      Characters 64X64_9: 2074634806
+      Characters 64X64_24: -772631907
+      Characters 64X64_14: -1304279731
+      Characters 64X64_29: 247677580
+      Characters 64X64_34: -1506481177
+      Characters 64X64_28: 1208237984
+      Characters 64X64_2: 1318517984
+      Characters 64X64_32: -633179306
+      Characters 64X64_26: -414324981
+      Characters 64X64_35: -1620248366
+      Characters 64X64_8: 1779806491
+      Characters 64X64_20: -1987669211
+      Characters 64X64_7: -2128727203
+      Characters 64X64_31: -1744697326
+      Characters 64X64_19: 201980753
+      Characters 64X64_37: -285416080
+      Characters 64X64_21: 1582727634
+      Characters 64X64_3: 320626523
+      Characters 64X64_16: -1567993746
+      Characters 64X64_1: -1619170531
+      Characters 64X64_6: -638936330
+      Characters 64X64_15: 239523928
+      Characters 64X64_12: 8571025
+      Characters 64X64_39: 1326596562
+      Characters 64X64_18: 1137154529
+      Characters 64X64_22: -75070856
+      Characters 64X64_38: 640502226
+      Characters 64X64_36: 453131413
+      Characters 64X64_0: -1968248370
+      Characters 64X64_33: -988842006
+      Characters 64X64_27: 617961093
+      Characters 64X64_5: -1047087696
+      Characters 64X64_13: -563704146
+      Characters 64X64_30: 1348547398
+      Characters 64X64_23: -912523359
+      Characters 64X64_10: -841218398
+      Characters 64X64_17: 599422878
+      Characters 64X64_11: 1209056079
+      Characters 64X64_25: 1314314303
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
